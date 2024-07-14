@@ -43,8 +43,8 @@ SpringBootActuatorExample
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repository-url.git
-   cd SpringBootActuatorExample
+   git clone https://github.com/NelushGayashan/spring-boot-actuator-example.git
+   cd spring-boot-actuator-example
    ````
 
 2. **Run the application:**
